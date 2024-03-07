@@ -15,3 +15,4 @@ window.onscroll = () => {
     searchForm.classList.remove('active');
     cartItem.classList.remove('active');
 }
+// end
