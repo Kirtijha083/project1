@@ -12,7 +12,7 @@ This is a fully responsive Coffee Shop Website front page designed using **HTML*
 # Multiple Sections:
 
 - **HOME**: Introduction to the coffee shop.
-- **ABOUT**: Information about the shop's history and mission.
+- **ABOUT**: Information about "What makes our coffee special".
 - **MENU**: Display of available food and beverage options.
 - **PRODUCTS**: Highlighted products and offers.
 - **REVIEW**: Customer reviews and testimonials.
