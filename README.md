@@ -4,10 +4,10 @@ This is a fully responsive Coffee Shop Website front page designed using **HTML*
 
 # Features
 
-**Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-**Interactive Effects**: Includes hover effects, opacity transitions, and cursor effects.
-**Click Events**: Buttons and interactive elements trigger JavaScript-based functionalities.
-**Embedded Map**: Displays the coffee shop location for easy navigation.
+1. Responsive Design: Optimized for desktops, tablets, and mobile devices.
+2. Interactive Effects: Includes hover effects, opacity transitions, and cursor effects.
+3. Click Events: Buttons and interactive elements trigger JavaScript-based functionalities.
+4. Embedded Map: Displays the coffee shop location for easy navigation.
 
 # Multiple Sections:
 
@@ -34,6 +34,6 @@ This is a fully responsive Coffee Shop Website front page designed using **HTML*
 4. Interact with different sections to explore features such as hover effects and the embedded map.
 
 
-## Credits
+# Credits
 
-This project was developed by **[Kumari Kirti Jha]**.
+This project was developed by **Kumari Kirti Jha**.
